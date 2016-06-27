@@ -1,2 +1,7 @@
 # hello-world
-1st repository
+
+Konnichiwa.
+
+You can call me Joyce. Please treat me well. Yoroshiku onegai shimasu. ( ╹◡╹)
+
+
